@@ -1,4 +1,4 @@
 javascript
 ==========
 
-useful javascript tools I've made over time.
+useful javascript tools made over time.
